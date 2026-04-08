@@ -109,3 +109,4 @@ public:
 };
 
 } // namespace sjtu
+using AllocatorTester = sjtu::BuddyAllocator;
